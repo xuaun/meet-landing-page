@@ -53,8 +53,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://your-solution-url.com)
-- Live Site URL: [Live Page](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/xuaun/meet-landing-page)
+- Live Site URL: [Live Page](https://xuaun.github.io/meet-landing-page/)
 
 ## My process
 
@@ -145,8 +145,8 @@ Os usuários devem ser capazes de:
 
 ### <p id="links-pt">Links</p>
 
-- Link da solução: [Repositório no GitHub](https://your-solution-url.com)
-- Site com a solução: [Página no ar](https://your-live-site-url.com)
+- Link da solução: [Repositório no GitHub](https://github.com/xuaun/meet-landing-page)
+- Site com a solução: [Página no ar](https://xuaun.github.io/meet-landing-page/)
 
 ## Meu processo
 
