@@ -1,0 +1,63 @@
+:root {
+  /* DESIGN SYSTEM */
+  /* COLORS DS */
+  /* CYAN */
+  --cyan-600: hsl(192, 37%, 48%);
+  --cyan-300: hsl(192, 90%, 77%);
+  /* PURPLE */
+  --purple-600: hsl(268, 34%, 53%);
+  --purple-300: hsl(268, 100%, 86%);
+  /* SLATE */
+  --slate-900: hsl(240, 21%, 20%);
+  --slate-600: hsl(240, 10%, 57%);
+  --slate-300: hsl(240, 18%, 85%);
+  /* WHITE */
+  --white: hsl(0, 0%, 98%);
+
+  /* TYPOGRAPHY DS */
+  --text-family: "Red Hat Display", sans-serif;
+  /* TEXT PRESET 1 */
+  --text-1-size: clamp(4rem, 3.155rem + 3.606vw, 6.4rem);
+  --text-1-weight: 900;
+  --text-1-height: 110%;
+  --text-1-spacing: 0rem;
+  /* TEXT PRESET 2 */
+  --text-2-size: clamp(3.2rem, 2.918rem + 1.202vw, 4rem);
+  --text-2-weight: 900;
+  --text-2-height: 110%;
+  --text-2-spacing: 0rem;
+  /* TEXT PRESET 3 */
+  --text-3-size: clamp(1.2rem, 1.059rem + 0.601vw, 1.6rem);
+  --text-3-weight: 900;
+  --text-3-height: 110%;
+  --text-3-spacing: 0.4rem;
+  /* TEXT PRESET 4 */
+  --text-4-size: clamp(1.6rem, 1.37rem + 0.478vw, 1.8rem);
+  --text-4-weight: 500;
+  --text-4-height: 110%;
+  --text-4-spacing: 0rem;
+  /* TEXT PRESET 5 */
+  --text-5-size: 1.6rem;
+  --text-5-weight: 900;
+  --text-5-height: 150%;
+  --text-5-spacing: 0rem;
+
+  /* PAGE */
+  /* COLORS */
+  --background-page-color: var(--white);
+  --background-footer-color: var(--cyan-600);
+  --text-header-color: var(--slate-900);
+  --text-body-color: var(--slate-600);
+  --text-3-body-color: var(--cyan-600);
+  --text-footer-color: var(--white);
+  --btn-text-color: var(--white);
+  --btn-1-background-color: var(--cyan-600);
+  --btn-1-span-color: var(--cyan-300);
+  --btn-1-hover-color: hsl(192, 54%, 64%);
+  --btn-2-background-color: var(--purple-600);
+  --btn-2-span-color: var(--purple-300);
+  --btn-2-hover-color: hsl(268, 55%, 71%);
+  --number-border-color: var(--slate-300);
+  --number-text-color: var(--slate-600);
+  --number-background-color: var(--white);
+}
