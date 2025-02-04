@@ -165,19 +165,19 @@ html {
   border-radius: 0.8rem;
 }
 
-.mid__img:first-child {
+.mid__img:nth-child(2) {
   grid-area: photo-1;
 }
 
-.mid__img:nth-child(2) {
+.mid__img:nth-child(3) {
   grid-area: photo-2;
 }
 
-.mid__img:nth-child(3) {
+.mid__img:nth-child(4) {
   grid-area: photo-3;
 }
 
-.mid__img:last-child {
+.mid__img:nth-child(5) {
   grid-area: photo-4;
 }
 
